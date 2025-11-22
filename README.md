@@ -1,2 +1,2 @@
 # AI_Agent
-Reply Stufent Clash
+Reply Student Clash
